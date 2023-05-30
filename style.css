@@ -12,13 +12,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Define a altura da área visível da página */
+  height: 100vh;
 }
 
 .quadrado {
-  width: 400px; /* Largura do quadrado */
-  height: 400px; /* Altura do quadrado */
-  background-color: red; /* Cor de fundo do quadrado (substitua pelo seu estilo desejado) */
+  width: 400px; 
+  height: 400px; 
+  background-color: red; 
 }
 
 
