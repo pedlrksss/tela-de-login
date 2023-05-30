@@ -1,3 +1,24 @@
 body {
     background-color: #dadada;
+    margin: 0px;
 }
+
+#titulo {
+    text-align: center;
+    
+}
+
+.alinhamento {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Define a altura da área visível da página */
+}
+
+.quadrado {
+  width: 400px; /* Largura do quadrado */
+  height: 400px; /* Altura do quadrado */
+  background-color: red; /* Cor de fundo do quadrado (substitua pelo seu estilo desejado) */
+}
+
+
